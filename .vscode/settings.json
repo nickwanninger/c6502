@@ -1,0 +1,22 @@
+{
+	"files.associations": {
+		"c6502.h": "c",
+		"stdio.h": "c",
+		"types.h": "c",
+		"stdlib.h": "c",
+		"screenclear.c": "cpp",
+		"display.h": "c",
+		"time.h": "c",
+		"string.h": "c",
+		"opfuncs.c": "cpp",
+		"ops.h": "c",
+		"math.h": "c",
+		"cpu.h": "c",
+		"stdint.h": "c",
+		"cstdlib": "c",
+		"c++config.h": "c",
+		"cpu_defines.h": "c",
+		"os_defines.h": "c",
+		"cdefs.h": "c"
+	}
+}
